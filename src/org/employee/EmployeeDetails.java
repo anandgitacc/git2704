@@ -12,6 +12,10 @@ private void employeeId() {
 		System.out.println("Employee modile:8939278836");
 	}
 	
+	private void empStatus() {
+		System.out.println("Working");
+	}
+	
 	public static void main(String[] args) {
 		
 		EmployeeDetails e = new EmployeeDetails();
