@@ -12,6 +12,10 @@ private void employeeId() {
 		System.out.println("Employee modile:8939278836");
 	}
 	
+	private void empAdd() {
+		System.out.println("OMR-chennai");
+	}
+	
 	public static void main(String[] args) {
 		
 		EmployeeDetails e = new EmployeeDetails();
